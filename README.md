@@ -6,4 +6,4 @@
 - 👦🏽 Pronome: Ele/Dele.
 <div align="center">
   <a href="https://github.com/PedroPrior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPrior&show_icons=true&theme=Dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPrior&show_icons=true&theme=tokyonight"/>
