@@ -7,3 +7,4 @@
 <div align="center">
   <a href="https://github.com/PedroPrior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPrior&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrior&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
