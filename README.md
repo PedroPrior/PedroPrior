@@ -10,12 +10,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrior&theme=github_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
-<h2 align="center"> Tools </h2>
 <div align="center" valign="top"><br>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
- <h2 align="center"> OS </h2>
   <img align="center" alt="ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div><br>
